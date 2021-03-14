@@ -1,0 +1,21 @@
+.homeContainer{
+    display: flex;
+}
+
+#landing-info{
+    margin-left: 350px;
+    font-size: 30px;
+    word-wrap: break-word;
+    text-align: justify;
+    margin-right: 15px;
+    color: #480ca8;
+}
+
+h1{
+    color: #ef476f;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.intropara{
+    color: #480ca8;
+}

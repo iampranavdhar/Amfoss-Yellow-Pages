@@ -1,0 +1,24 @@
+.image{
+    margin-top: 5px;
+    border-radius: 50%;
+    width: 50px;
+    border: 2px solid #ef476f;
+}
+
+.member{
+    border: 2px solid #ef476f;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    color: white;
+}
+.Profile{
+    display: flex;
+    object-fit: contain;
+    justify-content: space-between;
+}
+
+p{
+    color:#f1faee
+}

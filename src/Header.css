@@ -1,0 +1,72 @@
+.header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.amfoss-logo{
+    width: 50px;
+    object-fit: contain;
+    margin: 5px 20px;
+    border-radius: 50%;
+    width: 40px;
+}
+
+.search{
+    display: flex;
+    flex:1;
+    align-items: center;
+    border-radius: 30px;
+}
+
+.searchInput{
+    height: 12px;
+    padding: 10px;
+    width: 180px;
+    border: none;
+    border-radius: 20px;
+}
+
+.searchIcon{
+    padding: 5px;
+    height: 22px !important;
+    background-color: rgba(255, 136, 0, 0.918);
+}
+
+.nav{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.button{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    margin-right: 10px;
+    color: aliceblue;
+}
+
+.buttonLineOne{
+    font-size: 18px;
+}
+
+.buttonLineTwo{
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.buttonBasket{
+    padding: 10px;
+    color: aliceblue;
+    align-items: center;
+    display: flex;
+}
+
+.cartCount{
+    margin: 0px 10px;
+}

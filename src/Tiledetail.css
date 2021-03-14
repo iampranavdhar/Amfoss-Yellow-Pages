@@ -1,0 +1,21 @@
+.tiledetail {
+    margin-left: 400px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+}
+
+.label{
+    color: #2a9d8f;
+}
+
+.text{
+    color: #480ca8;
+}
+
+.imageInfo{
+    margin-top: 5px;
+    border-radius: 50%;
+    width: 250px;
+    border: 4px solid #ef476f;
+}
+
